@@ -102,7 +102,7 @@ SELECT * FROM postgres_catalog.default.orders;
 📸 Screenshots
 1. Spark SQL
 
-    ![Screenshot 2025-06-04 184042](https://github.com/user-attachments/assets/db18d269-d83e-4fff-bc0e-9c8200ab5efe)
+![image](https://github.com/user-attachments/assets/dc01930b-c958-4e81-9229-f943d170349f)
 
 
 ❗ Challenges Faced
